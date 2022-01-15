@@ -1,14 +1,32 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  {
+    "id": 1,
+    "first_name": "Yalonda",
+    "last_name": "Snar",
+    "email": "ysnar0@elegantthemes.com"
+  },
+  {
+    "id": 2,
+    "first_name": "Perrine",
+    "last_name": "Lampaert",
+    "email": "plampaert1@netlog.com"
+  },
+  {
+    "id": 3,
+    "first_name": "Neill",
+    "last_name": "Cabel",
+    "email": "ncabel2@home.pl"
+  },
+  {
+    "id": 4,
+    "first_name": "Ardisj",
+    "last_name": "Siebert",
+    "email": "asiebert3@google.co.jp"
+  },
+  {
+    "id": 5,
+    "first_name": "Jacobo",
+    "last_name": "Alejandro",
+    "email": "jalejandro4@usnews.com"
   }
 }
